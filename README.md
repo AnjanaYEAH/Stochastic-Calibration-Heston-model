@@ -9,3 +9,5 @@ Running
   1. Go to folder "Differential Evolution"
   2. Enter command, "g++ -std=c++11 HestonCalibrator.cpp -o run"
   3. Then enter, "./run"
+
+To generate and visualise the data and performance, run the python files.
